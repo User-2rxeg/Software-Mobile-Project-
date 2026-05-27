@@ -17,7 +17,7 @@
 | :--- | :--- | :--- | :--- |
 | Eyad Ahmed | 13005238 | eyad.elmaleh@student.giu-uni.de | P24 |
 | Manuel Youssef | 13006600 | manuel.kevorkian@student.giu-uni.de | P21 |
-| Chantal Sheriff | 13007034 | chantal.andrawes@student.giu-uni.de | P21 |
+| Chantal Sherif | 13007034 | chantal.andrawes@student.giu-uni.de | P21 |
 | Ebram Nageh | 13006318 | ebram.attia@student.giu-uni.de | P25 |
 | Youstina Raouf | 13001755 | youstina.boutrous@student.giu-uni.de | P21 |
 
